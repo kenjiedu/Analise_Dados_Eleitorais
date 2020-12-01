@@ -8,11 +8,10 @@ Utilizando o município de São José dos Campos, foi coletado os perfis dos ele
 
 Por meio dos valores e dos gráficos, observa se...
 
-
-
+<br />
+<br />
 
 
 Autores: Eduardo Kenji e Lucas Barcelos
 
 Fonte: https://www.tse.jus.br/hotsites/pesquisas-eleitorais/eleitorado.html
-
