@@ -7,5 +7,6 @@ Por meio dos valores e dos gráficos, observa se...
 
 
 Autores: Eduardo Kenji e Lucas Barcelos
+
 Fonte: https://www.tse.jus.br/hotsites/pesquisas-eleitorais/eleitorado.html
 
