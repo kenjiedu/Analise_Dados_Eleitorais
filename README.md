@@ -1,17 +1,26 @@
-# Analise_Dados_Eleitorais
+# Análise de Grau de Escolaridade de SJC
 
-Análise feita baseada no site do TSE utilizando os dados das eleições dos anos de 2012, 2016 e 2020.
+Baseada no site do TSE consumindo os dados das eleições dos anos de 2012, 2016 e 2020. Utilizando o município de São José dos Campos, foi coletado os perfis dos eleitores em função do grau de escolaridade.
+* ENSINO MÉDIO COMPLETO           
+* ENSINO FUNDAMENTAL INCOMPLETO   
+* SUPERIOR COMPLETO                
+* ENSINO MÉDIO INCOMPLETO          
+* ENSINO FUNDAMENTAL COMPLETO      
+* SUPERIOR INCOMPLETO              
+* LÊ E ESCREVE                      
+* ANALFABETO                      
 
-O objetivo do estudo é observar como está o grau de escolaridade do cidadão joseense com o passar dos anos.
 
-Utilizando o município de São José dos Campos, foi coletado os perfis dos eleitores em função do grau de escolaridade. 
+## Objetivo 
+O objetivo do estudo é observar os graus de escolaridade predominantes dos cidadãos joseenses e seus respectivos crescimentos ou declínios com o passar dos anos.
 
+## Conclusão
 Por meio dos valores e dos gráficos, observa se...
 
-<br />
-<br />
 
+## Autores
+* Eduardo Kenji  
+* Lucas Barcelos
 
-Autores: Eduardo Kenji e Lucas Barcelos
-
-Fonte: https://www.tse.jus.br/hotsites/pesquisas-eleitorais/eleitorado.html
+### Fonte
+[TSE](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/eleitorado.html)
